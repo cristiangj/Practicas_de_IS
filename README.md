@@ -1,7 +1,6 @@
 Practicas_de_IS
 ===============
 
-blablabla
+#Introduccion
 
-
-Practicas de ingenieria del software
+#Practicas
