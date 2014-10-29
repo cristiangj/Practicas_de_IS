@@ -1,7 +1,6 @@
 Practicas_de_IS
 ===============
-
-EEEE
+#Cosas cosas
 
 #Introduccion
 
